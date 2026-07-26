@@ -1,0 +1,31 @@
+{
+    "slug": "exercise-terminal-challenge",
+    "title": {
+        "us": "Command Line Challenge",
+        "es": "El reto de la terminal"
+    },
+    "description": {
+        "us": "This command line challenge is designed to make you become familiar with the bash/command line. The challenge goes over the most used commands every developer needs to know, in order to succeed in real life.",
+        "es": "Este desaf\u00edo de l\u00ednea de comandos est\u00e1 dise\u00f1ado para que te familiarices con la terminal y la l\u00ednea de comandos bash. El desaf\u00edo abarca los comandos m\u00e1s utilizados que todo desarrollador necesita conocer para tener \u00e9xito en la vida real."
+    },
+    "preview": "https://github.com/breatheco-de/exercise-terminal-challenge/blob/master/preview.png?raw=true",
+    "difficulty": "BEGINNER",
+    "duration": 2,
+    "template_url": "self",
+    "gitpod": true,
+    "technologies": [
+        "back-end",
+        "command-line",
+        "bash",
+        "cybersecurity",
+        "servers"
+    ],
+    "projectType": "project",
+    "delivery": {
+        "instructions": "",
+        "formats": [
+            "no_delivery"
+        ],
+        "regex": ""
+    }
+}
