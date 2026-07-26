@@ -1,3 +1,5 @@
+![El reto de la terminal](assets/banner.png)
+
 # El reto de la terminal
 
 Resolución del proyecto **Command Line Challenge** del bootcamp de 4Geeks Academy

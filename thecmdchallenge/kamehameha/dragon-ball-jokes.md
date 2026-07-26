@@ -1,4 +1,3 @@
-What did Beerus say to Goku? Why don't you tell your son to "Gohan" home. 
 
 How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
 
